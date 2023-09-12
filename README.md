@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/ATrbovic/ATrbovic/assets/82620186/c7808c79-c077-4596-9505-f1dd8cde9a90)
+
+
 <!--
 **ATrbovic/ATrbovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Uploading image.png…]()
+
 -->
