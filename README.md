@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![image](https://github.com/ATrbovic/ATrbovic/assets/82620186/c7808c79-c077-4596-9505-f1dd8cde9a90)
 
 
 <!--
@@ -17,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Uploading image.png…]()
+![image](https://github.com/ATrbovic/ATrbovic/assets/82620186/c7808c79-c077-4596-9505-f1dd8cde9a90)
+
 
 -->
