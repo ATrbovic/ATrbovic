@@ -50,7 +50,7 @@ I am passionate about interdisciplinary work that combines theoretical foundatio
 
 ## Personal Interests
 
-When I'm not in the lab, I enjoy:
+In my free time I enjoy:
 -   Cooking and exploring new recipes.
 -   Practicing archery.
 -   Playing Counter-Strike.
