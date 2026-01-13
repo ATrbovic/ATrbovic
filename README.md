@@ -25,9 +25,7 @@
 
 ## About Me
 
-I am a PhD student at Florida State University specializing in **quantum game theory**, **quantum machine learning**, and **optimization**. My research focuses on leveraging these cutting-edge fields to solve complex computational problems.
-
-I am passionate about interdisciplinary work that combines theoretical foundations with practical applications.
+I am a PhD student at Florida State University specializing in **quantum game theory**, **quantum machine learning**, and **optimization**. I am passionate about interdisciplinary work that combines theoretical foundations with practical applications.
 
 ---
 
@@ -44,7 +42,7 @@ I am passionate about interdisciplinary work that combines theoretical foundatio
 -   **Languages**: Python, C++, Java, JavaScript, LabVIEW
 -   **Data & ML Libraries**: NumPy, Pandas, Matplotlib, TensorFlow
 -   **Databases**: SQL, PostgreSQL, Oracle DB
--   **Tools & Platforms**: AWS, Docker, Git, Jira, Junit, Node.js, React.js, Slurm, PGAdmin
+-   **Tools & Platforms**: AWS, Docker, Git, Jira, Junit, Node.js, React.js, Slurm, PGAdmin, Qiskit, Pennylane
 
 ---
 
