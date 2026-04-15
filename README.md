@@ -1,8 +1,9 @@
-<div align="center">
+<div style="text-align: center;">
   <h1 style="border-bottom: 2px solid #ccc; padding-bottom: 5px;">Alex - PhD Student</h1>
   <p>Florida State University</p>
 </div>
-<p align="center">
+
+<p style="text-align: center;">
   <a href="mailto:trbovicalex@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
@@ -19,26 +20,34 @@
     <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website Badge" />
   </a>
 </p>
+
 ---
+
 ## About Me
-I am a PhD student at Florida State University specializing in dynamic quantum games in adversarial enviornments. I am passionate about interdisciplinary work that combines theoretical foundations with practical applications.
+I am a PhD student at Florida State University specializing in dynamic quantum games in adversarial environments. I am passionate about interdisciplinary work that combines theoretical foundations with practical applications.
+
 ---
+
 ## Research Interests
--   **Quantum Game Theory**: Exploring strategic interactions in quantum systems and developing quantum algorithms for game-theoretic problems.
--   **Optimization**: Applying advanced optimization techniques to complex systems, including those in quantum and classical computing.
--   **Team Coordination**: Modeling of adaptive coalition formations 
--   **Dynamic Adversarial Enviornments**: Node loss, nonstationary payoffs, no fixed-point or periodic attractors, unpredictable dynamic perturbations
+* **Quantum Game Theory**: Exploring strategic interactions in quantum systems and developing quantum algorithms for game-theoretic problems.
+* **Optimization**: Applying advanced optimization techniques to complex systems, including those in quantum and classical computing.
+* **Team Coordination**: Modeling of adaptive coalition formations.
+* **Dynamic Adversarial Environments**: Node loss, nonstationary payoffs, no fixed-point or periodic attractors, unpredictable dynamic perturbations.
+
 ---
+
 ## Technical Skills
--   **Languages**: Python, C++, Java, JavaScript, LabVIEW
--   **Data & ML Libraries**: NumPy, Pandas, Matplotlib, TensorFlow
--   **Databases**: SQL, PostgreSQL, Oracle DB
--   **Tools & Platforms**: AWS, Docker, Git, Jira, Junit, Node.js, React.js, Slurm, PGAdmin, Qiskit, Pennylane
+* **Languages**: Python, C++, Java, JavaScript, LabVIEW
+* **Data & ML Libraries**: NumPy, Pandas, Matplotlib, TensorFlow
+* **Databases**: SQL, PostgreSQL, Oracle DB
+* **Tools & Platforms**: AWS, Docker, Git, Jira, JUnit, Node.js, React.js, Slurm, pgAdmin, Qiskit, PennyLane
+
 ---
+
 ## Personal Interests
 In my free time I enjoy:
--   Cooking and exploring new recipes
--   Practicing archery
--   Playing Counter-Strike
--   Spending time with my dogs
--   Working on carpentry projects
+* Cooking and exploring new recipes
+* Practicing archery
+* Playing Counter-Strike
+* Spending time with my dogs
+* Working on carpentry projects
